@@ -1,4 +1,4 @@
-# Project Title
+# Best Scraper
 
 Test task for RonteLTD. Task was to write a service that check services availability and response time every minute and provides an api for it.
 
