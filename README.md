@@ -38,7 +38,9 @@ config file should have following sections:
 
 API has following routes:
 
+```
 GET /services/slowest - request slowest service. 404 if none of services available.
 GET /services/fastest - request fastest service. 404 if none of services available.
 GET /services/statistics - request service request statistics. Requires basic authorization.
 GET /services/{name} - request service response_time and availability. 404 if none match.
+```
