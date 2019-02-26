@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Pc2ORQp+VY3Un/dkh4QwLC7R6lE=",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "3012a1dbe2e4bd1391d42b32f0577cb7bbc7f005",
+			"revisionTime": "2018-08-15T10:47:33Z"
+		},
+		{
+			"checksumSHA1": "9YQYg2PkA7lkFuUyCQGUv0vX5zA=",
+			"path": "github.com/gorilla/mux",
+			"revision": "8559a4f775fc329165fe32bd4c2543de8ada8fce",
+			"revisionTime": "2019-02-17T15:38:49Z"
+		},
+		{
+			"checksumSHA1": "KIAfjm15EMYrXXbVBUO6ZX9c4t0=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "4f5fd631f16452fbd023813c1eb7dbd67130cb0c",
+			"revisionTime": "2019-02-20T17:22:53Z"
+		},
+		{
+			"checksumSHA1": "CVmt+DETeuUZkKC6MUJbTqc/iYU=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "7f87c0fbb88b590338857bcb720678c2583d4dea",
+			"revisionTime": "2019-01-29T19:25:17Z"
+		},
+		{
+			"checksumSHA1": "LpCXEG20Ly2DQSZEGgsmsX8P+G0=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "cc5685c2db1239775905f3911f0067c0fa74762f",
+			"revisionTime": "2019-02-24T20:24:49Z"
+		},
+		{
+			"checksumSHA1": "Hu8GoQK1euwtE4UjrhXepmk2NM8=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "cc5685c2db1239775905f3911f0067c0fa74762f",
+			"revisionTime": "2019-02-24T20:24:49Z"
+		}
+	],
+	"rootPath": "github.com/potehinre/best_scraper"
+}
